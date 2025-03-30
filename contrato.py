@@ -142,6 +142,3 @@ if __name__ == '__main__':
 
 print ('Teste alterações Github!')
 
-print ('Teste commit')
-
-
