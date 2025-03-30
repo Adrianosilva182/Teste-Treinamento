@@ -140,4 +140,5 @@ def voltar_ao_menu():
 if __name__ == '__main__':
     main()
 
+print ('Teste alterações Github')
 
